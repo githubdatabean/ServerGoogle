@@ -1,0 +1,19 @@
+{
+  "serverPort": 3600,
+  "TrafficEstimatorService": {
+    "wsdl_url": "https://adwords.google.com/api/adwords/o/v201506/TrafficEstimatorService?wsdl",
+    "clientCustomerId": "xxxxxx",
+    "developerToken": "xxxxxx",
+    "userAgent": "xxxxxx",
+    "validateOnly": "xxxxxx",
+    "partialFailure": "xxxxxx"
+  },
+  "TargetingIdeaService": {
+    "wsdl_url": "https://adwords.google.com/api/adwords/o/v201506/TargetingIdeaService?wsdl",
+    "clientCustomerId": "xxxxxx",
+    "developerToken": "xxxxxx",
+    "userAgent": "xxxxxx",
+    "validateOnly": "xxxxxx",
+    "partialFailure": "xxxxxx"
+  }
+}
