@@ -1,7 +1,7 @@
 1. Unzip and move the direcory "ServerGoogle" to node environment (Server)
 2. Add developer token and other application specific data with Config.json file
 3. Install required npm modules (package.json)
-4. Replace attached "http.js" file under the directory "<root path>/node_modules/soap/lib/"
+4. Replace the "http.js" file under the directory "<root path>/node_modules/soap/lib/"
 5. Start the server using the command >node ServerGoogle.js
 
 SERVICE INFORMATION:
